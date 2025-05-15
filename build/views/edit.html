@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="/update/{{ user.id }}" method="post">
+        Name: <input type="text" name="name" value="{{ user.name }}" required><br>
+        City: <input type="text" name="city" value="{{ user.city }}" required><br>
+        <button type="submit">Update</button>
+      </form>      
+</body>
+</html>

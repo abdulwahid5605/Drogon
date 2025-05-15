@@ -1,0 +1,3 @@
+/home/fuse12/Desktop/drogon/build/CMakeFiles/my_drogon_app.dir
+/home/fuse12/Desktop/drogon/build/CMakeFiles/edit_cache.dir
+/home/fuse12/Desktop/drogon/build/CMakeFiles/rebuild_cache.dir
